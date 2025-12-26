@@ -60,7 +60,7 @@
 
 ## Output:
 
-### Name: Sangeeth J
+### Name: Vishal R
 ### Register Number: 25016264
 
 ## Result: 
